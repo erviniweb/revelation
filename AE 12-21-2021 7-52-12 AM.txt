@@ -1,0 +1,8 @@
+  12/21/2021 7:52:12 AM: Starting composition “A Taste of New York”.
+
+  Output To: C:\Users\User\Documents\Revelation.html\A Taste of New York.avi      Render stopped by user.  After Effects error: An output module stopped responding. The file may be damaged or corrupted. You may need to restart After Effects.  12/21/2021 7:54:21 AM: Finished composition “A Taste of New York”.
+
+
+  Total Time Elapsed: 1 Min, 48 Sec
+Log closed on 12/21/2021 at 7:54:22 AM
+

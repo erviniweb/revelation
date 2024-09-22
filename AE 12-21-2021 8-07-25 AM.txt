@@ -1,0 +1,8 @@
+  12/21/2021 8:07:25 AM: Starting composition “A Taste of New York”.
+
+  Output To: C:\Users\User\Documents\Revelation.html\A Taste of New York_1.avi    12/21/2021 8:15:35 AM: Finished composition “A Taste of New York”.
+
+
+  Total Time Elapsed: 8 Min, 9 Sec
+Log closed on 12/21/2021 at 8:15:35 AM
+
