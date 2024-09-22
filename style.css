@@ -1,0 +1,24 @@
+ }
+    .vertical-menu {
+      width: 375px;
+      height: 130px;
+      overflow-y: auto;
+      margin-top: 310px;
+      margin-left: -22px;
+	  left: -50px;
+    }
+    .vertical-menu a {
+      color: white;
+      display: block;
+      padding: 12px;
+      text-decoration: none;
+      font-family: Roboto;
+      font-size: 14px;
+    }
+    .vertical-menu a:hover {
+      background-color: rgb(51, 102, 154);
+    }
+    .vertical-menu a.active {
+      background-color: rgb(51, 102, 154);
+      color: white;
+    }
